@@ -1,0 +1,12 @@
+Repositório para guardar nossos exercícios dos dojos.
+
+Para ativar a notificação do Gnome (Ubuntu):
+
+1. Instalar o Peon:
+   pip install Peon
+
+2. Iniciar o Peon no diretório onde estão os códigos:
+   cd /diretorio_do_dojo/
+   peon
+
+
